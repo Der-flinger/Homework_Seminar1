@@ -1,0 +1,15 @@
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\bin\Debug\net7.0\HomeTask №1.exe
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\bin\Debug\net7.0\HomeTask №1.deps.json
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\bin\Debug\net7.0\HomeTask №1.runtimeconfig.json
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\bin\Debug\net7.0\HomeTask №1.dll
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\bin\Debug\net7.0\HomeTask №1.pdb
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\obj\Debug\net7.0\HomeTask №1.csproj.AssemblyReference.cache
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\obj\Debug\net7.0\HomeTask №1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\obj\Debug\net7.0\HomeTask №1.AssemblyInfoInputs.cache
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\obj\Debug\net7.0\HomeTask №1.AssemblyInfo.cs
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\obj\Debug\net7.0\HomeTask №1.csproj.CoreCompileInputs.cache
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\obj\Debug\net7.0\HomeTask №1.dll
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\obj\Debug\net7.0\refint\HomeTask №1.dll
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\obj\Debug\net7.0\HomeTask №1.pdb
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\obj\Debug\net7.0\HomeTask №1.genruntimeconfig.cache
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\HW_sem2\HomeTask №1\obj\Debug\net7.0\ref\HomeTask №1.dll
