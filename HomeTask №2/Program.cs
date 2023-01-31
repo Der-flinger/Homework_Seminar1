@@ -11,12 +11,12 @@ if ( num > 99 & num < 1000 || num > -1000 & num < -99)
     Console.WriteLine($"Третья цифра равна {Math.Abs(num % 10)}");
 }
 
-else if (num < 100 & num > -100)
+else if (num < 100 & num > -100)                            // Работает как для положительных,
 {
-    Console.WriteLine("Третьей цифры нет");
+    Console.WriteLine("Третьей цифры нет");                 // так и для отрицательных
 }
 
-else if (num > 999)
+else if (num > 999)                                         // чисел
 {
     string numString = num.ToString();
     Console.WriteLine($"Третья цифра равна {numString[2]}");
