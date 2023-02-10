@@ -1,0 +1,15 @@
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\obj\Debug\net7.0\Hometask_N4(optional).csproj.AssemblyReference.cache
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\obj\Debug\net7.0\Hometask_N4(optional).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\obj\Debug\net7.0\Hometask_N4(optional).AssemblyInfoInputs.cache
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\obj\Debug\net7.0\Hometask_N4(optional).AssemblyInfo.cs
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\obj\Debug\net7.0\Hometask_N4(optional).csproj.CoreCompileInputs.cache
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\bin\Debug\net7.0\Hometask_N4(optional).exe
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\bin\Debug\net7.0\Hometask_N4(optional).deps.json
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\bin\Debug\net7.0\Hometask_N4(optional).runtimeconfig.json
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\bin\Debug\net7.0\Hometask_N4(optional).dll
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\bin\Debug\net7.0\Hometask_N4(optional).pdb
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\obj\Debug\net7.0\Hometask_N4(optional).dll
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\obj\Debug\net7.0\refint\Hometask_N4(optional).dll
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\obj\Debug\net7.0\Hometask_N4(optional).pdb
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\obj\Debug\net7.0\Hometask_N4(optional).genruntimeconfig.cache
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_5\Hometask_N4(optional)\obj\Debug\net7.0\ref\Hometask_N4(optional).dll
