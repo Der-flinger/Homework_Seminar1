@@ -30,14 +30,14 @@ float[,] Get2DArray (int raw, int column, int minValue, int maxValue) // мет�
 
 void GetElmntValue(float[,] array2D)                                  // метод, который показывает элемент либо сообщение, что такого элемента нет
 {
-    System.Console.WriteLine("Введите индекс строки и столбца массива через пробел: ");
-    string index = Console.ReadLine()!;                                 // индекс строки и столбца в одной строке
+    System.Console.WriteLine("Введите позицию строки и столбца массива через пробел: ");
+    string index = Console.ReadLine()!;                                 // позиция строки и столбца в одной строке
     string[] strArray = index.Split(" ");
-    if (Convert.ToInt32(strArray[0]) >= m || Convert.ToInt32(strArray[1]) >= n) 
+    if (Convert.ToInt32(strArray[0]) > m || Convert.ToInt32(strArray[1]) > n) 
     {
-        Console.WriteLine("Такого элемента нет, неверный индекс!");
+        Console.WriteLine("Такого элемента нет, позиция за пределами массива!");
         System.Console.WriteLine();
         return;
     }
-    System.Console.WriteLine($"Элемент под индексом [{strArray[0]}, {strArray[1]}] равен {array2D[Convert.ToInt32(strArray[0]), Convert.ToInt32(strArray[1])]}");
+    System.Console.WriteLine($"Элемент под позицией [{strArray[0]}, {strArray[1]}] равен {array2D[Convert.ToInt32(strArray[0]) - 1, Convert.ToInt32(strArray[1]) - 1]}");
 }
