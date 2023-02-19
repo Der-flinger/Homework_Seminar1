@@ -1,0 +1,15 @@
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\obj\Debug\net7.0\Hometask_N2.csproj.AssemblyReference.cache
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\obj\Debug\net7.0\Hometask_N2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\obj\Debug\net7.0\Hometask_N2.AssemblyInfoInputs.cache
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\obj\Debug\net7.0\Hometask_N2.AssemblyInfo.cs
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\obj\Debug\net7.0\Hometask_N2.csproj.CoreCompileInputs.cache
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\bin\Debug\net7.0\Hometask_N2.exe
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\bin\Debug\net7.0\Hometask_N2.deps.json
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\bin\Debug\net7.0\Hometask_N2.runtimeconfig.json
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\bin\Debug\net7.0\Hometask_N2.dll
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\bin\Debug\net7.0\Hometask_N2.pdb
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\obj\Debug\net7.0\Hometask_N2.dll
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\obj\Debug\net7.0\refint\Hometask_N2.dll
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\obj\Debug\net7.0\Hometask_N2.pdb
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\obj\Debug\net7.0\Hometask_N2.genruntimeconfig.cache
+C:\Users\Kompukter\Desktop\Git_repositories\Introduction for programming\Homework_Seminar_7\Hometask_N2\obj\Debug\net7.0\ref\Hometask_N2.dll
