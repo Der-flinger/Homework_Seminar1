@@ -60,7 +60,7 @@ int[] GetSortRawsFromArray2D(int[,] array2D)        // метод для сор�
                 {
                     for (int l = 0; l < line.Length - 1 - k; l++)
                     {
-                        if (line[l] > line[l + 1]) 
+                        if (line[l] < line[l + 1]) 
                         {
                             temp = line[l];
                             line[l] = line[l + 1];
