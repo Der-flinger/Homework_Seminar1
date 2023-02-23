@@ -11,7 +11,7 @@ System.Console.Write("Введите кол-во столбцов трехмер
 int column = int.Parse(Console.ReadLine()!);
 System.Console.WriteLine();
 
-int[,,] mainArray = Get3DArray(layer, raw, column, 1, 9);
+int[,,] mainArray = Get3DArray(layer, raw, column, 10, 99);
 System.Console.WriteLine("Трехмерный массив ниже");
 Print3DArray(mainArray);
 
