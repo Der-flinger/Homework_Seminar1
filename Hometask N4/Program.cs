@@ -12,6 +12,7 @@ int column = int.Parse(Console.ReadLine()!);
 System.Console.WriteLine();
 
 int[,,] mainArray = Get3DArray(layer, raw, column, 10, 99);
+
 System.Console.WriteLine("Трехмерный массив ниже");
 Print3DArray(mainArray);
 
@@ -24,11 +25,33 @@ int[,,] Get3DArray(int layerLength, int rawLength, int columnLength, int minValu
         {
             for (int j = 0; j < columnLength; j++)
             {
-                array3D[k, i, j] = new Random().Next(minValue, maxValue + 1);
+                int element = new Random().Next(minValue, maxValue + 1);
+                if (checkForNonRepeatingElements(array3D, element)) 
+                {
+                    array3D[k,i,j] = new Random().Next(10, 99);
+                    if (checkForNonRepeatingElements(array3D, element)) continue;
+                    continue;
+                }
+                array3D[k, i, j] = element;
             }
         }
     }
     return array3D;
+}
+
+bool checkForNonRepeatingElements(int[,,] array3D, int element)
+{
+    for (int k = 0; k < array3D.GetLength(0); k++)
+    {
+        for (int i = 0; i < array3D.GetLength(1); i++)
+        {
+            for (int j = 0; j < array3D.GetLength(2); j++)
+            {
+                if (array3D[k, i, j] == element) return true; 
+            }
+        }
+    }
+    return false;
 }
 
 void Print3DArray(int[,,] array3D)     // метод для выведения массива на экран
